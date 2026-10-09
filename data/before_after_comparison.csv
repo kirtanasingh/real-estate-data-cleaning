@@ -1,0 +1,6 @@
+Metric,Before Cleaning,After Cleaning
+Total Rows,325,262
+Missing Values,86,0
+Duplicate Rows,25,0
+Unique City Names,17,4
+Invalid Listing Dates,8,0
